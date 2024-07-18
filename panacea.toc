@@ -1,0 +1,5 @@
+## Interface: 30403
+## Title: Panacea
+## Notes: Panacea for Verf
+## Version: 1.0
+main.lua
